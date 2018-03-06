@@ -1,0 +1,25 @@
+var classaikido_1_1statespace_1_1SO2 =
+[
+    [ "State", "db/d68/classaikido_1_1statespace_1_1SO2_1_1State.html", "db/d68/classaikido_1_1statespace_1_1SO2_1_1State" ],
+    [ "ScopedState", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#abddfdcbcd49ac0b3447b0b39898638f1", null ],
+    [ "ScopedStateConst", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a830d494a55c005265ab79058466d6eb0", null ],
+    [ "StateHandle", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#af3cfaeb8ef08bf0940fa330da5b5067e", null ],
+    [ "StateHandleConst", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a93db99e451e6bb27d8f10e0cd390a90f", null ],
+    [ "SO2", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#ae35a51772c4a55523e369fd8492528c0", null ],
+    [ "allocateStateInBuffer", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#aeec8a47bb159b61eb359fcef9623f803", null ],
+    [ "compose", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a4621a3969391d3cef340cdd6f9d76820", null ],
+    [ "copyState", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a8cc24c0872ad57cab03f2fdeb818f32d", null ],
+    [ "createState", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#acee58f0dc37e8be082d032799283d6c2", null ],
+    [ "expMap", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a062fae8c0e95a2b01bdaafcd6518c864", null ],
+    [ "freeStateInBuffer", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a6cc863bee9b1708ee67c68655c09be9f", null ],
+    [ "getAngle", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a97fee8673b1a396e467acd3e637c56c5", null ],
+    [ "getDimension", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#ae1fc806ae9d63b9692f1730060349f51", null ],
+    [ "getIdentity", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#ad69bdc39bb208083b70d07b60e5cb22e", null ],
+    [ "getInverse", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a279ddd1b0d88aff734071c4dfa82324b", null ],
+    [ "getRotation", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a2436305df84826c88e3142bd50cca5e2", null ],
+    [ "getStateSizeInBytes", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#ab9015330713529ed6abc4382bf606142", null ],
+    [ "logMap", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#ab3f0c521ecc679a2c17f5c43d3131a1e", null ],
+    [ "print", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#ae7ba0b1b22f534e913064e61bdc25f90", null ],
+    [ "setAngle", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#af5c68d2ede6045c82e9f99a5b143b523", null ],
+    [ "setRotation", "dd/d4f/classaikido_1_1statespace_1_1SO2.html#a8964b398b65c906309b38fd73e0507d4", null ]
+];
